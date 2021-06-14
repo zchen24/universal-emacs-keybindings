@@ -101,7 +101,7 @@ keys["globalOverride"]
   , "alt"
     : {"m": ["{LWin down}{Up}{LWin up}", False, ""] } }
 
-global appsWithNativeEmacsKeybindings = ["emacs.exe", "rubymine64.exe", "conemu64.exe"]
+global appsWithNativeEmacsKeybindings = ["emacs.exe", "rubymine64.exe", "conemu64.exe", "git-bash.exe"]
 global ctrlXActive := False
 global ctrlSpaceActive := False
 
